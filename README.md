@@ -8,7 +8,7 @@ The dataset used contains customer details, service usage patterns, and churn la
 
 ## Project Structure
 - `Customer_Churn_Detection.ipynb` - Jupyter Notebook containing the complete workflow (data loading, preprocessing, model training, evaluation, and comparison).
-- `dataset/` - Folder containing the dataset (if publicly available).
+- `dataset/` - Folder containing the dataset.
 - `README.md` - Project documentation.
 
 ## Dependencies
@@ -46,9 +46,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn
    jupyter notebook Customer_Churn_Detection.ipynb
    ```
 
-## Contributing
-Feel free to fork the repository and submit pull requests for improvements!
-
-## License
-This project is licensed under the MIT License.
 
