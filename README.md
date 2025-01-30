@@ -7,7 +7,7 @@ This project predicts customer churn using four machine learning models: K-Neare
 The dataset used contains customer details, service usage patterns, and churn labels. Preprocessing steps include handling missing values, encoding categorical variables, and feature scaling.
 
 ## Project Structure
-- `Customer Churn Detection.ipynb` - Jupyter Notebook containing the complete workflow (data loading, preprocessing, model training, evaluation, and comparison).
+- `Customer_Churn_Detection.ipynb` - Jupyter Notebook containing the complete workflow (data loading, preprocessing, model training, evaluation, and comparison).
 - `dataset/` - Folder containing the dataset (if publicly available).
 - `README.md` - Project documentation.
 
