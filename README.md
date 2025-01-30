@@ -34,8 +34,8 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MarwanAhmed2100902/customer-churn-prediction.git
-   cd customer-churn-prediction
+   git clone https://github.com/MarwanAhmed2100902/Customer-Churn-Detection-Project.git
+   cd Customer-Churn-Detection-Project
    ```
 2. Install dependencies (if not installed):
    ```bash
