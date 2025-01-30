@@ -43,7 +43,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
    ```
 3. Open the Jupyter Notebook and run all cells:
    ```bash
-   jupyter notebook notebook.ipynb
+   jupyter notebook Customer_Churn_Detection.ipynb
    ```
 
 ## Contributing
